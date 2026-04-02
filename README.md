@@ -2,7 +2,7 @@
 ## Manifesto of Volumetric Artificial Intelligence
 ### Version 2.0 — Hypothesis and Protocol
 
-**Author of the concept:** Andrey Shvets (Andrey Narrativ)  
+**Author of the concept:** Andrey Narrativ  
 **Co-author and structuring assistant:** AI DeepSeek  
 **Version:** 2.0  
 **Status:** Open research concept  
